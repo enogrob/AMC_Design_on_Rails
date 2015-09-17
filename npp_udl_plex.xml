@@ -17,10 +17,10 @@
             <Keywords name="Operators2">(*);(+);&gt;;&lt;=</Keywords>
             <Keywords name="Folders in code1, open"></Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
-            <Keywords name="Folders in code1, close">.....</Keywords>
-            <Keywords name="Folders in code2, open">&quot;SIGNAL&quot; &quot;ADD AFTER PLEX&quot; &quot;REPLACE AT PLEX&quot; &quot;REMOVE PLEX&quot;</Keywords>
+            <Keywords name="Folders in code1, close">....</Keywords>
+            <Keywords name="Folders in code2, open">&quot;ADD AFTER PLEX&quot; &quot;REPLACE AT PLEX&quot; &quot;REMOVE PLEX&quot; &quot;REPLACE PLEX&quot; &quot;DOCUMENT &quot;</Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
-            <Keywords name="Folders in code2, close">&quot;END SIGNAL;&quot; &quot;END DOCUMENT;&quot;</Keywords>
+            <Keywords name="Folders in code2, close">&quot;END SIGNAL;&quot;</Keywords>
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
